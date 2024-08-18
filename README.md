@@ -52,4 +52,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 ```
-**【注意】本repo为非盈利项目，对具体内容不承担各项责任。**
+**【注意】本repo为非盈利项目，对具体内容不承担各项责任！**
